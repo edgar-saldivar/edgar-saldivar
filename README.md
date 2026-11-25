@@ -15,7 +15,7 @@ I'm especially interested in **how people learn**, and in how technology and AI 
 
 ### 🔭 What I'm working on
 - **Commit & Learn** *(coming soon)*: my learning log, with what I build, what I learn and how I learn it.
-- Programming fundamentals in **C**: a personal portfolio site (HTML, CSS, JavaScript) with my 52 C practices, including pseudocode, flowcharts, source code and line-by-line explanations.
+- Programming fundamentals in **C**: [my portfolio site](https://edgar-saldivar.github.io/portafolio-electronico/) (HTML, CSS, JavaScript) with my 52 C practices, including pseudocode, flowcharts, source code and line-by-line explanations.
 
 ### 🛠️ Tools
 `C` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
@@ -24,6 +24,6 @@ I'm especially interested in **how people learn**, and in how technology and AI 
 Entry-level opportunities in **IT support, technical support, data quality and information verification**. Long-term interest: cybersecurity.
 
 ### 🤝 Connect
-[LinkedIn](https://www.linkedin.com/in/edgarmanuelmx/)
+[Website](https://edgar-saldivar.github.io/) · [LinkedIn](https://www.linkedin.com/in/edgarmanuelmx/) · [Instagram](https://www.instagram.com/edgarmanuel.mx/) · [Facebook](https://www.facebook.com/edgarmanuel.mx/)
 
 <sub>Spanish (native) · English (B2) · Guadalajara, Jalisco, Mexico</sub>
