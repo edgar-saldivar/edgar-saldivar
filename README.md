@@ -6,11 +6,16 @@
 
 Computer Engineering student at the **University of Guadalajara (CUCEI)**, building my technical foundation step by step.
 
-I currently work remotely as a **Search Quality Rater for Spanish (Mexico) with RWS TrainAI**, evaluating the quality and relevance of search results with detailed rating guidelines and project documentation in English.
+I work remotely as a **Search Engine Evaluator with RWS TrainAI**, evaluating the quality and relevance of search results with detailed rating guidelines, and working every day with project documentation and communications in English.
+
+Before engineering, I completed four semesters of **medicine** (CUCS), where I learned to study rigorously, evaluate scientific evidence and work under pressure.
+
+### 🧠 What drives me
+I'm especially interested in **how people learn**, and in how technology and AI can help us learn better without replacing our own thinking. My university courses and my work are my lab: I test learning methods, measure what works and keep a log of how my methods evolve, like commits.
 
 ### 🔭 What I'm working on
-- Learning programming fundamentals in **C**.
-- A personal portfolio site (HTML, CSS, JavaScript) with my 52 C programming practices: pseudocode, flowcharts, source code and line-by-line explanations. *Link coming soon.*
+- **Commit & Learn** *(coming soon)*: my learning log, with what I build, what I learn and how I learn it.
+- Programming fundamentals in **C**: a personal portfolio site (HTML, CSS, JavaScript) with my 52 C practices, including pseudocode, flowcharts, source code and line-by-line explanations.
 
 ### 🛠️ Tools
 `C` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
